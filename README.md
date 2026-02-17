@@ -4,7 +4,6 @@ PyPhotoEditor-Pro is a powerful Python-based photo editing and image
 processing project designed to demonstrate real-world application
 development, image transformation, and efficient data handling using
 Python.
-
 This project highlights practical implementation of image processing
 techniques such as transformation, PNG handling, and automated
 input-output processing. It is designed as a **portfolio-ready project**
